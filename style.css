@@ -1,0 +1,19 @@
+Body {
+    background-color: chartreuse;
+}
+a{
+    color: rgb(201, 197, 179);
+    background: rgb(0, 0, 0);
+}
+th{
+    font-size: 20px;
+}
+.arial {
+    font-family: "Arial", Arial, sans-serif;
+}
+.courier {
+    font-family: "Courier New", Courier, monospace;
+}
+.verdana {
+    font-family: "Verdana", Verdana, sans-serif;
+}
